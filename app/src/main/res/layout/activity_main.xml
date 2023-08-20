@@ -259,7 +259,7 @@
                     android:textAlignment="center"
                     android:text="SAMPLE"
                     android:id="@+id/sampleBarcode"
-                    android:textSize="20sp"
+                    android:textSize="22sp"
                     android:textStyle="bold"/>
 
             </LinearLayout>
